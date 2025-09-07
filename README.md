@@ -20,8 +20,7 @@ backend/
 ├── api/             # API 接口定义
 │   ├── router.py    # 路由定义
 │   └── schemas.py   # 数据模型定义
-├── app/             # 应用入口
-│   └── main.py      # 主应用文件
+├── main.py      # 应用入口
 ├── config/          # 配置管理
 │   ├── config.py    # 配置管理器
 │   └── config.yaml  # 配置文件
